@@ -1,8 +1,8 @@
 html {
   font-size: 18px;
   font-family: "Times New Roman", Times, serif;
-  background-color: #00539f;
-  background-image: url(./background.jpg);
+  /* background-color: #00539f; */
+  background-image: url(./images/background.jpg);
 }
 
 h1 {
